@@ -19,3 +19,18 @@ To install the package globally, run:
 
 ```bash
 npm install -g my-create-node-server
+```
+
+## Usage
+
+To create a new server project, just run:
+
+```bash
+my-create-node-server
+```
+
+Follow the CLI prompts to configure your server based on your needs.
+
+## License
+
+ISC
